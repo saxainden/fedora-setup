@@ -1,8 +1,8 @@
-atom
+#atom
 autoconf
 automake
 binutils
-bison
+#bison
 dconf-editor
 discord
 flex
@@ -15,7 +15,7 @@ glibc-devel
 gnome-tweak-tool
 gparted
 htop
-joe
+#joe
 kernel-devel
 kernel-headers
 lame
@@ -25,7 +25,7 @@ make
 mc
 mpv
 multitail
-nano
+#nano
 net-tools
 openssh-server
 patch
@@ -34,7 +34,7 @@ remmina
 remmina-plugins-rdp
 shutter
 simplescreenrecorder
-steam
+#steam
 tree
 chrome-gnome-shell
 ctags
